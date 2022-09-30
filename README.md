@@ -25,9 +25,13 @@ Caution! A lot of disk space needed! 4,0G in total.
 ~252K	composer.json
 
 ## Requirements in composer.json
+
 "minimum-stability": "dev",
+
 "php": ">=7.3",
+
 "drupal/core": ">=8||^9",
+
 "roave/security-advisories": "dev-latest"
 
 ## Roadmap

@@ -1,1 +1,7 @@
 .idea
+docroot
+vendor
+drush
+modules
+components
+themes

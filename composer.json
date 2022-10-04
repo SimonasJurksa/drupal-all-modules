@@ -1,9 +1,9 @@
 {
-  "name": "simonasjurksa/drupal_live_examples",
+  "name": "simonasjurksa/drupal-all-modules",
   "type": "project",
   "autoload": {
     "psr-4": {
-      "SimonasJurksa\\DrupalLiveExamples\\": "docroot/"
+      "SimonasJurksa\\DrupalAllModules\\": "docroot/"
     }
   },
   "authors": [

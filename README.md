@@ -1,4 +1,4 @@
-# Drupal all modules in one composer.json file
+# Drupal 4546 modules (almost all and growing) in one composer.json file.
 Composer with all latest drupal modules compatible with stable core (currently D9)
 It can be used as Drupal live examples. Expanded drupal/examples version. For learning purposes only.
 

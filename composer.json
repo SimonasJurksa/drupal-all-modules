@@ -1988,6 +1988,7 @@
     "drupal/entity_reference_overflow": ">=1.0@beta",
     "drupal/entity_reference_override": ">=2.0@beta",
     "drupal/entity_reference_override_label": ">=1.0.x-dev",
+    "drupal/entity_reference_patterns": "^1.0",
     "drupal/entity_reference_purger": ">=1.0@beta",
     "drupal/entity_reference_revisions": ">=1.10",
     "drupal/entity_reference_tree": ">=2.0",
